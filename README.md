@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```
                          .,,uod8B8bou,,.
                 ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
            ||||||||||||||!?TFPRBBBBBBBBBBBBBBB8m=,
@@ -44,3 +45,4 @@ Here are some ideas to get you started:
                   '"^!|Tf998888888889!`             WBBBBbo.
                         '"^!|Tf9989!`              YBBBP^'
                               '"^!`               `
+```
