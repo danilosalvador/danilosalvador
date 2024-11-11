@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hello! Welcome to my Github profile.
-## My name is Danilo Salvador and I am a Full-stack Software Engineer 🚀
+# 👋 Hello! Welcome to my Github profile
+## My name is Danilo Salvador and I'm a Full-stack Software Engineer 🚀
 
 ```
                                      .,,uod8B8bou,,.
