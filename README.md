@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hello! Welcome to my Github profile
-## My name is Danilo Salvador and I'm a Full-stack Software Engineer 🚀
+
+My name is Danilo Salvador and I'm a Full-stack Software Engineer 🚀
 
